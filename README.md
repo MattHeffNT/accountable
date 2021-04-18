@@ -1,11 +1,11 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> My Extension
 
-My Chrome Extension
+Cancel Culture to "Accountability*" 
 
 ## Features
 
-- Feature 1
-- Feature 2
+- a Chrome extension to change the term 'cancel culture' to "accountability"
+
 
 ## Install
 
@@ -18,4 +18,3 @@ Suggestions and pull requests are welcomed!.
 ---
 
 This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
-
