@@ -6,10 +6,11 @@ Cancel Culture to "Accountability*"
 
 - a Chrome extension to change the term 'cancel culture' to "accountability"
 
-
 ## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+<!-- [**Chrome** extension]() TODO: Add chrome extension link inside parenthesis -->
+
+Coming to the Chrome store soon. Link will be posted here.
 
 ## Contribution
 
