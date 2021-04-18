@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=5DZP7QEDWW85A&currency_code=AUD)
 
-# <img src="public/icons/icon_48.png" width="45" align="left"> My Extension
+# <img src="public/icons/icon_48.png" width="45" align="left"> Cancel Culture to Accountability
 
 Cancel Culture to "Accountability*" 
 
