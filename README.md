@@ -13,14 +13,7 @@ Cancel Culture to "Accountability*"
 <!-- [**Chrome** extension]() TODO: Add chrome extension link inside parenthesis -->
 
 
-
-1. Download this file as a zip
-2. Unzip the folder
-3. Visit chrome://extensions (via omnibox or menu -> Tools -> Extensions). 
-4. Enable Developer mode by ticking the checkbox in the upper-right corner.
-5. Click on the "Load unpacked extension..." button. Select the folder you just unzipped (where you downloaded the file).
-
-Coming to the Chrome store soon. Link will be posted here.
+https://chrome.google.com/webstore/detail/cancel-to-accountability/lfjomnfceffakkjdndfikaomdcnpafho?hl=en
 
 ## Contribution
 
