@@ -13,7 +13,7 @@ Cancel Culture to "Accountability*"
 <!-- [**Chrome** extension]() TODO: Add chrome extension link inside parenthesis -->
 
 
-https://chrome.google.com/webstore/detail/cancel-to-accountability/lfjomnfceffakkjdndfikaomdcnpafho?hl=en
+<img src = './chrome badge.png'> <a href=https://chrome.google.com/webstore/detail/cancel-to-accountability/lfjomnfceffakkjdndfikaomdcnpafho?hl=en></a></img>
 
 ## Contribution
 
